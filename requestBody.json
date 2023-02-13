@@ -1,0 +1,15 @@
+{
+  "tipologiaStruttura": "Ospedale",
+  "tipoDocumentoLivAlto": "LDO",
+  "assettoOrganizzativo": "AD_PSC001",
+  "tipoAttivitaClinica": "CON",
+  "healthDataFormat": "CDA",
+  "mode": "ATTACHMENT",
+  "attiCliniciRegoleAccesso": [
+    "P99"
+  ],
+  "identificativoSottomissione": "2.16.840.1.113883.2.9.3.120915.4.20.32.202301041148121.1",
+  "identificativoDoc": "2.16.840.1.113883.2.9.3.120915.4.4.32.11072433273.11^11072433273",
+  "identificativoRep": "2.16.840.1.113883.2.9.3.120915.4.5.11072433273",
+  "priorita": true
+}
